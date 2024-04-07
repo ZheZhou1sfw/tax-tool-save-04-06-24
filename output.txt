@@ -1,0 +1,84 @@
+AVGO FMV (11/22/2023):             $979.50
+VMW per share cash value:          $68.059701
+VMW per share AVGO ratio:          0.131642
+VMW per share value after merge:   $197.002836
+VMW shares to cash percent:        0.477612
+VMW shares to stock percent:       0.522388
+
+Special dividend 2018: date=12/28/2018, reduce cost basis by 26.76
+Special dividend 2021: date=11/01/2021, reduce cost basis by 16.58
+
+total vmw share:                   268.000
+total avgo share:                  35.000
+total proceeds:                    $18,493.34
+
+total short term proceeds:         $0.00
+total short term cost basis:       $0.00
+total short term capital gain:     $0.00
+
+total long term proceeds:          $18,240.00
+total long term cost basis:        $0.00
+total long term capital gain:      $18,240.00
+
+total avgo cash-in-lieu frac share cost basis:    $247.09
+total avgo cash-in-lieu frac share capital gain:  $6.25
+
+fractional share cost basis lot:   3
+acquire date:                      08/01/2022
+long term:                         True
+fractional share:                  0.280
+fractional share proceeds:         $253.34
+fractional share cost basis:       $247.09
+fractional share capital gain:     $6.25
+
+---------------------- row: 3 ----------------------
+type:                              RS
+share:                             192.000
+acquire date:                      08/01/2022
+merge or sold date:                11/22/2023
+long term:                         True
+Box 1d Proceeds:                   $13,067.46
+Filing Cost Basis:                 $0.00
+Total Capital Gain:                $13,067.46
+avgo share:                        24.995
+total avgo cost basis:             $22,057.36
+per share avgo cost basis:         $882.47
+
+fractional share:                  0.280
+fractional share proceeds:         $253.34
+fractional share cost basis:       $247.09
+fractional share capital gain:     $6.25
+
+per share info:
+purchase price:                    $116.17
+cost basis:                        $116.17
+merge gain:                        $80.83
+capital gain:                      $68.06
+acquire date:                      08/01/2022
+acquire date fmv:                  $116.17
+
+---------------------- row: 4 ----------------------
+type:                              ESPP
+share:                             76.000
+acquire date:                      08/31/2022
+merge or sold date:                11/22/2023
+long term:                         True
+Box 1d Proceeds:                   $5,172.54
+Filing Cost Basis:                 $0.00
+Total Capital Gain:                $5,172.54
+total pending ordinary income:     $1,321.37
+avgo share:                        10.005
+total avgo cost basis:             $8,809.35
+per share avgo cost basis:         $880.50
+
+per share info:
+purchase price:                    $98.52
+cost basis:                        $98.52
+merge gain:                        $98.48
+capital gain:                      $68.06
+offer date:                        03/01/2022
+offer date fmv:                    $115.91
+acquire date:                      08/31/2022
+acquire date fmv:                  $116.03
+qualifying disposition:            True
+ordinary income:                   $17.39
